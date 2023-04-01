@@ -1,2 +1,4 @@
-# PROJECT-
-Catering Reservation and food ordering system college ranker project
+WEB DEVELOPMENT PROJECT
+on CATERING RESERVATION AND FOOD ORDERING SYSTEM
+college ranker project
+ 
