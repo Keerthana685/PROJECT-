@@ -1,5 +1,5 @@
-# PROJECT-
-Catering Reservation and food ordering system college ranker project
+ PROJECT-
+ # Catering Reservation and food ordering system college ranker project
 
 ## TECHNOLOGIES USED-
 
